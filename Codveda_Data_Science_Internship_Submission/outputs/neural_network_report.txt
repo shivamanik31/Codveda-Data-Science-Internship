@@ -1,0 +1,6 @@
+NEURAL NETWORK RESULTS
+======================
+Accuracy: 0.6667
+Macro Precision: 0.5000
+Macro Recall: 0.6667
+Macro F1 Score: 0.5556

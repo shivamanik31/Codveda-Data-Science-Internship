@@ -1,0 +1,8 @@
+DATA CLEANING AND PREPROCESSING REPORT
+======================================
+Original rows: 150
+Rows after duplicate removal: 147
+Duplicates removed: 3
+Missing values remaining: 0
+Numeric columns scaled: 4
+Categorical columns encoded: 1

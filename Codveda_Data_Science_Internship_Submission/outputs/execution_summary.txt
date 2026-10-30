@@ -1,0 +1,12 @@
+CODVEDA PROJECT EXECUTION SUMMARY
+=================================
+
+COMPLETED TASKS:
+- Data Cleaning
+- Exploratory Data Analysis
+- Regression
+- Churn Classification
+- NLP Sentiment Classification
+- Neural Network
+
+FAILED TASKS:

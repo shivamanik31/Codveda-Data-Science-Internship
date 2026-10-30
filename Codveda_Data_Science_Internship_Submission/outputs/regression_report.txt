@@ -1,0 +1,6 @@
+REGRESSION MODEL COMPARISON
+
+            Model       MSE     RMSE       R2
+Linear Regression 24.291119 4.928602 0.668759
+    Decision Tree 17.815588 4.220852 0.757062
+    Random Forest  8.597743 2.932191 0.882759

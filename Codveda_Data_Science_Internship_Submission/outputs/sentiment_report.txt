@@ -1,0 +1,177 @@
+SENTIMENT CLASSIFICATION RESULTS
+================================
+Accuracy: 0.1973
+Macro Precision: 0.1400
+Macro Recall: 0.1362
+Macro F1 Score: 0.1329
+
+                        precision    recall  f1-score   support
+
+         Acceptance          0.00      0.00      0.00         2
+      Acceptance             0.00      0.00      0.00         0
+       Accomplishment        0.00      0.00      0.00         0
+           Admiration        0.00      0.00      0.00         1
+         Admiration          0.00      0.00      0.00         0
+        Admiration           0.00      0.00      0.00         1
+            Adventure        0.00      0.00      0.00         0
+         Affection           1.00      1.00      1.00         1
+      Ambivalence            1.00      1.00      1.00         1
+         Anger               0.00      0.00      0.00         1
+         Anticipation        0.00      0.00      0.00         0
+        Anticipation         0.00      0.00      0.00         1
+            Anxiety          0.00      0.00      0.00         0
+        Arousal              0.38      1.00      0.55         3
+        ArtisticBurst        0.00      0.00      0.00         0
+                  Awe        0.00      0.00      0.00         1
+               Awe           0.00      0.00      0.00         0
+         Awe                 0.00      0.00      0.00         1
+        Awe                  0.00      0.00      0.00         0
+                  Bad        1.00      1.00      1.00         1
+             Betrayal        0.00      0.00      0.00         2
+        Betrayal             0.00      0.00      0.00         1
+         Bitter              1.00      1.00      1.00         1
+           Bitterness        1.00      1.00      1.00         1
+          Bittersweet        0.00      0.00      0.00         1
+              Boredom        0.00      0.00      0.00         1
+         Breakthrough        0.00      0.00      0.00         0
+         Calmness            1.00      1.00      1.00         1
+          Captivation        0.00      0.00      0.00         1
+     Celestial Wonder        0.00      0.00      0.00         1
+                Charm        0.00      0.00      0.00         0
+             Colorful        0.00      0.00      0.00         1
+            Confusion        0.00      0.00      0.00         0
+      Confusion              1.00      0.67      0.80         3
+           Connection        0.00      0.00      0.00         1
+        Contemplation        0.00      0.00      0.00         1
+          Contentment        0.00      0.00      0.00         3
+        Contentment          0.00      0.00      0.00         1
+         Coziness            1.00      1.00      1.00         1
+ Creative Inspiration        0.00      0.00      0.00         0
+           Creativity        0.00      0.00      0.00         0
+         Creativity          0.00      0.00      0.00         1
+      CulinaryOdyssey        0.00      0.00      0.00         0
+            Curiosity        0.00      0.00      0.00         2
+           Curiosity         0.00      0.00      0.00         0
+          Curiosity          0.00      0.00      0.00         1
+        Curiosity            0.00      0.00      0.00         0
+      Curiosity              1.00      0.50      0.67         2
+         Darkness            0.00      0.00      0.00         0
+        Dazzle               0.00      0.00      0.00         0
+           Desolation        0.00      0.00      0.00         1
+      Despair                0.00      0.00      0.00         0
+          Desperation        0.00      0.00      0.00         0
+           Devastated        0.00      0.00      0.00         2
+       Disappointment        0.00      0.00      0.00         0
+              Disgust        0.00      0.00      0.00         1
+         Disgust             0.00      0.00      0.00         2
+      Disgust                0.00      0.00      0.00         0
+        DreamChaser          0.00      0.00      0.00         0
+              Ecstasy        0.00      0.00      0.00         0
+            Elation          0.00      0.00      0.00         0
+        Elation              1.00      0.33      0.50         3
+             Elegance        0.00      0.00      0.00         1
+          Embarrassed        0.00      0.00      0.00         1
+       EmotionalStorm        0.00      0.00      0.00         1
+        Empowerment          1.00      1.00      1.00         1
+        Enchantment          0.00      0.00      0.00         0
+         Enjoyment           0.00      0.00      0.00         2
+           Enthusiasm        0.00      0.00      0.00         1
+        Enthusiasm           0.00      0.00      0.00         0
+              Envious        0.00      0.00      0.00         2
+  Envisioning History        0.00      0.00      0.00         1
+      Envy                   0.00      0.00      0.00         0
+           Euphoria          0.00      0.00      0.00         0
+         Euphoria            0.00      0.00      0.00         1
+           Excitement        0.00      0.00      0.00         3
+         Excitement          0.25      0.33      0.29         3
+        Excitement           0.00      0.00      0.00         1
+           Exhaustion        0.00      0.00      0.00         0
+         Fear                0.00      0.00      0.00         1
+              Fearful        1.00      1.00      1.00         1
+        FestiveJoy           0.00      0.00      0.00         0
+        Freedom              0.00      0.00      0.00         0
+           Frustrated        1.00      1.00      1.00         1
+          Frustration        0.00      0.00      0.00         3
+      Frustration            0.00      0.00      0.00         0
+         Fulfillment         0.00      0.00      0.00         2
+        Fulfillment          0.00      0.00      0.00         0
+             Grateful        1.00      1.00      1.00         1
+           Gratitude         0.00      0.00      0.00         0
+          Gratitude          0.00      0.00      0.00         0
+         Gratitude           0.00      0.00      0.00         0
+      Grief                  0.00      0.00      0.00         1
+                Happy        0.00      0.00      0.00         6
+                 Hate        0.50      0.50      0.50         2
+            Heartache        0.00      0.00      0.00         0
+           Heartbreak        0.00      0.00      0.00         2
+         Helplessness        0.00      0.00      0.00         0
+                 Hope        0.00      0.00      0.00         0
+              Hopeful        1.00      1.00      1.00         1
+            Immersion        0.00      0.00      0.00         0
+        InnerJourney         0.00      0.00      0.00         1
+        Inspiration          0.00      0.00      0.00         1
+             Inspired        1.00      1.00      1.00         1
+         Intimidation        0.00      0.00      0.00         0
+      Intimidation           0.00      0.00      0.00         0
+            Isolation        0.00      0.00      0.00         1
+          Jealousy           0.00      0.00      0.00         1
+                  Joy        0.00      0.00      0.00         8
+         Joy                 0.33      1.00      0.50         1
+        JoyfulReunion        0.00      0.00      0.00         1
+         Kind                1.00      1.00      1.00         1
+           Loneliness        1.00      1.00      1.00         1
+        Loneliness           0.00      0.00      0.00         0
+      Loneliness             0.00      0.00      0.00         1
+             LostLove        0.00      0.00      0.00         1
+         Marvel              0.00      0.00      0.00         0
+           Melancholy        0.00      0.00      0.00         0
+      Melancholy             0.00      0.00      0.00         2
+        Melodic              0.00      0.00      0.00         0
+       Miscalculation        0.00      0.00      0.00         1
+        Motivation           0.00      0.00      0.00         0
+      Nature's Beauty        0.00      0.00      0.00         0
+              Neutral        0.00      0.00      0.00         1
+        Nostalgia            0.00      0.00      0.00         1
+       Nostalgia             0.00      0.00      0.00         0
+      Nostalgia              0.00      0.00      0.00         1
+             Numbness        0.00      0.00      0.00         0
+      Numbness               0.00      0.00      0.00         1
+      Ocean's Freedom        0.00      0.00      0.00         0
+          Overwhelmed        0.00      0.00      0.00         1
+        Overwhelmed          0.00      0.00      0.00         0
+              Playful        1.00      0.50      0.67         2
+            Positive         0.00      0.00      0.00         9
+             Pressure        0.00      0.00      0.00         0
+        Pride                0.00      0.00      0.00         0
+                Proud        1.00      1.00      1.00         1
+          Radiance           0.00      0.00      0.00         0
+        Reflection           0.00      0.00      0.00         1
+       Regret                0.50      1.00      0.67         1
+       Renewed Effort        0.00      0.00      0.00         0
+           Resilience        0.00      0.00      0.00         1
+         Resilience          0.00      0.00      0.00         0
+            Reverence        0.00      0.00      0.00         1
+        Reverence            0.00      0.00      0.00         0
+           Ruins             0.00      0.00      0.00         0
+         Sadness             0.00      0.00      0.00         2
+         Satisfaction        0.00      0.00      0.00         0
+        Satisfaction         0.00      0.00      0.00         1
+             Serenity        0.00      0.00      0.00         2
+        Serenity             0.00      0.00      0.00         0
+      Serenity               1.00      0.50      0.67         2
+             Solitude        0.00      0.00      0.00         1
+               Sorrow        0.00      0.00      0.00         0
+          Sorrow             0.00      0.00      0.00         1
+         Spark               0.00      0.00      0.00         1
+            Suffering        0.00      0.00      0.00         0
+         Surprise            0.00      0.00      0.00         1
+        Thrill               0.00      0.00      0.00         1
+             Vibrancy        0.00      0.00      0.00         1
+        Whimsy               0.00      0.00      0.00         0
+ Whispers of the Past        0.00      0.00      0.00         1
+           Wonder            0.00      0.00      0.00         0
+                 Zest        0.00      0.00      0.00         1
+
+              accuracy                           0.20       147
+             macro avg       0.14      0.14      0.13       147
+          weighted avg       0.22      0.20      0.19       147

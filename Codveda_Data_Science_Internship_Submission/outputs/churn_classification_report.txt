@@ -1,0 +1,18 @@
+CHURN CLASSIFICATION RESULTS
+
+              Model  Accuracy  Precision   Recall       F1
+Logistic Regression  0.857571   0.500000 0.242105 0.326241
+      Random Forest  0.952024   0.862069 0.789474 0.824176
+
+Best model:
+Random Forest
+
+Detailed classification report:
+              precision    recall  f1-score   support
+
+       False       0.97      0.98      0.97       572
+        True       0.86      0.79      0.82        95
+
+    accuracy                           0.95       667
+   macro avg       0.91      0.88      0.90       667
+weighted avg       0.95      0.95      0.95       667
